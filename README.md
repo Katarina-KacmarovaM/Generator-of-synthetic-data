@@ -1,4 +1,4 @@
-# Synthetic Telemedicine Data Generator
+# Synthetic Medicine Data Generator
 
 This project provides a tool for generating synthetic telemedicine session data using different large language models and output formats (JSON, CSV, Markdown). The data is generated via a user-friendly interface built with Gradio, making it easy to experiment with different parameters and models.
 
