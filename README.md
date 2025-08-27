@@ -28,3 +28,8 @@ The necessary libraries are installed directly within the Colab notebook using `
 !pip install torch==2.3.0 torchvision==0.18.0 --upgrade --quiet
 !pip install --upgrade transformers accelerate safetensors --quiet
 !pip install -q gradio
+
+```
+------------------------
+### If you have ideas how to improve my code  please reach out to me. I would be grateful.
+###  Have fun coding !
